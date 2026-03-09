@@ -1,3 +1,12 @@
 ﻿namespace knightmoves;
 
-// Add your code here
+
+public enum Days {
+  Monday,
+  Tuesday,
+  Wednesday,
+  Thursday,
+  Friday,
+  Saturday,
+  Sunday
+}
